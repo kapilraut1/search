@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 package.json includes metadata while lock.json contains the current versions of dependencies
-This was nice thing to learn.
+This was nice thing to learn. It is nice...
